@@ -3,7 +3,6 @@
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
 ![Java](https://img.shields.io/badge/java-1.8%2B-blue.svg)
 ![Spigot](https://img.shields.io/badge/spigot-1.17%2B-blue.svg)
-![BungeeCord](https://img.shields.io/badge/bungeecord-1.17%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 SupremeFriends is a powerful and feature-rich friend management plugin for Minecraft servers. It enhances player interactions by providing a seamless friend system, friend requests, and BungeeCord integration.
